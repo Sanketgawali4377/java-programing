@@ -1,5 +1,3 @@
-
-
 public class BubbleSort {
     public static void printarr(int arr[]){
         for(int i=0; i<arr.length; i++){
@@ -8,6 +6,9 @@ public class BubbleSort {
     }
     public static void main(String [] args){
         int arr[] = {12,4,1,7,8};
+        
+        //time complexity = O (n square)
+        //bubble sort
 
 
         for(int i=0; i<arr.length-1; i++)
