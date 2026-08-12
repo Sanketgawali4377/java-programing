@@ -10,6 +10,7 @@ public class selection{
          int arr[] = {8,9,1,3,10};
 
          //selection sort
+         //time complexity = O (n square)
         for(int i=0; i<arr.length-1; i++){
             int smallest = i;
             for(int j=i+1; j<arr.length; j++){
