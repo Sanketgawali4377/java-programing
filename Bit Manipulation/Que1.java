@@ -16,5 +16,6 @@ public class Que1 {
         } else {
             System.out.println("Not a power of 2");
         }
+        sc.close();
     }
 }

@@ -1,4 +1,4 @@
-import java.util.*;
+
 public class InsretionSort {
 
     public static void printarr(int arr[]){
