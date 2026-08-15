@@ -2,7 +2,7 @@
 
 package Recurtion;
 
-public class basic1 {
+public class basicQue1 {
 
    
 
