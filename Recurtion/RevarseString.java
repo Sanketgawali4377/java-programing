@@ -15,7 +15,7 @@ public class RevarseString {
     public static void main(String[] args) {
 
         String str = "sanket";
-        int index = str.length();
+      
 
         string(str,str.length()-1);
     }
